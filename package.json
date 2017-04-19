@@ -1,7 +1,7 @@
 {
   "name": "tapioca-load",
-  "version": "1.0.0",
-  "description": "Node autoload files and modules ",
+  "version": "1.0.1",
+  "description": "Autoload node files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,11 @@
   "keywords": [
     "autoload",
     "modules",
+    "express-autoload",
+    "autoload routes",
+    "routes",
+    "mongoose-autoload",
+    "autoload models",
     "files"
   ],
   "author": "Salomão Neto",

@@ -1,5 +1,5 @@
 {
-  "name": "autoload",
+  "name": "tapioca-load",
   "version": "1.0.0",
   "description": "Node autoload files and modules ",
   "main": "index.js",

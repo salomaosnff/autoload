@@ -1,1 +1,1 @@
-module.exports = require('./lib/autoload');
+module.exports = require('./lib/tapioca');

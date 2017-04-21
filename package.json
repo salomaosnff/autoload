@@ -1,6 +1,6 @@
 {
   "name": "tapioca-load",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Autoload node files",
   "main": "index.js",
   "scripts": {

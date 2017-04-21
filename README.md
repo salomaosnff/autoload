@@ -57,10 +57,12 @@ tapioca({
 ```
 
 ## Métodos
-- add(entidade): Adiciona um arquivo ou pasta a ser carregado
+- add(entidade): Adiciona um arquivo ou pasta ao carregamento
+- del(entidade): Remove um arquivo ou pasta do carregamento
 - load(obj): Carrega todas as entidades adicionadas, 
              passa o object para as funções doas arquivos e os 
              dados retornados são gravados no object.
+- desc(mensagem): Exibe uma mensagem após a entidade ser carregada
              
 Em breve mais métodos e opções
 
